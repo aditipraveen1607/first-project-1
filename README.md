@@ -1,4 +1,4 @@
-# Token Creation Tutorial
+# Token Creation!
 
 Welcome to the Token Creation Tutorial! This tutorial provides a straightforward Solidity smart contract for the creation and management of a basic token, equipped with minting and burning capabilities.
 
